@@ -1572,3 +1572,8 @@ padding-top: 12px;
         margin: auto;
     }
 }
+@media screen  and (max-width:450px),screen and(max-height: 750px){
+    .container1 .section1 .input1 .btn1{
+        padding-top: 19px;
+    }
+}
