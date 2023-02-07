@@ -1554,4 +1554,21 @@ padding-top: 12px;
         left: 2%;
         top: 122%;
     }
+    .container1 .section1 .input1 .btn1 {
+        height: 6vh;
+        width: 28%;
+        padding-top: 10px;
+    }
+    .container6 .section6 .content6 .input1 .btn1 {
+        height: 7vh;
+        padding-top: 13px;
+        margin-top: 20px;
+        width: 32%;
+        font-size: 15px;
+    }
+    .container1 .section1 .input1 input {
+        width: 79%;
+        height: 7vh;
+        margin: auto;
+    }
 }
