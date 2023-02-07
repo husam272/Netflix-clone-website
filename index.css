@@ -1440,7 +1440,7 @@ footer .list .clone {
 }
 @media  screen and (max-width:400px){
     .container1 .content1 .navbar .signbtn {
-        margin-right: 5px;
+        /* margin-right: 5px; */
         padding: 3px 15px;
 }
 .container1 .content1 .navbar .language select{
