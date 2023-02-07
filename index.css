@@ -1407,15 +1407,17 @@ footer .list .clone {
 
 @media screen and (max-width:450px) {
     .container1 .section1 .input1 .btn1 {
-        height: 9vh;
-        padding-top: 13px;
+        height: 8vh;
+        padding-top: 11px;
         margin-top: 20px;
-        width: 35%;
+        width: 26%;
         font-size: 15px;
     }
-
     .container1 .section1 .input1 .btn1 i {
         font-size: 15px;
+    }
+    .container1 .section1 {
+        margin-top: 22%;
     }
     .container2 .section2 .display1 .video1 {
         max-width: 69%;
@@ -1508,7 +1510,7 @@ footer .list .clone {
     }
     
 }
-@media screen and (max-width: 360px), 
+/* @media screen and (max-width: 360px), 
        screen and (max-height: 740px) {
         .container1 .section1 .input1 .btn1{
             height: 6vh;
@@ -1527,4 +1529,12 @@ footer .list .clone {
         .container6 .section6 .content6 .input1 .btn1{
             height: 6vh;
         }
-}
+} */
+
+ @media screen  and (max-width:425px),screen and(max-height: 740px){
+    .container2 .section2 .display1 .video1 {
+        max-width: 69%;
+        left: 3%;
+        top: 121%;
+    }
+ }
