@@ -1452,6 +1452,9 @@ footer .list .clone {
     width: 100px;
     height: 5vh;
 }
+.container1 .section1 {
+    margin-top: 16%;
+}
 .container1 .section1 .title3 p {
     width: 77%;
 }
@@ -1504,4 +1507,8 @@ footer .list .clone {
         transform: translate(10px, 27px);
     }
     
+}
+@media screen and (max-width: 360px), 
+       screen and (max-height: 740px) {
+ 
 }
