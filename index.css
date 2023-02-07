@@ -1542,5 +1542,13 @@ footer .list .clone {
     }
     .container1 .section1 .input1 .btn1 {
 height: 6vh;
+padding-top: 12px;
  }
+}
+@media screen  and (max-width:400px),screen and(max-height: 650px){
+    .container2 .section2 .display1 .video1 {
+        max-width: 69%;
+        left: 2%;
+        top: 122%;
+    }
 }
